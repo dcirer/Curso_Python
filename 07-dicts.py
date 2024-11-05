@@ -45,8 +45,7 @@ print("Nombre" in my_other_dict)
 
 print(my_dict.keys())
 print(my_dict.items())#arroja una lista de las keys del diccionario
-
+print(my_dict.values())
 my_new_dict=dict.fromkeys(my_other_dict)
 print(my_new_dict)
 
-print(my_dict.values())
