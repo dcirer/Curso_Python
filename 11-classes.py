@@ -13,4 +13,4 @@ class Person:
 my_person= Person("Dominique","Cirer")
 
 print(my_person.fullname)
-my_person.walk()
+my_person.walk()    
